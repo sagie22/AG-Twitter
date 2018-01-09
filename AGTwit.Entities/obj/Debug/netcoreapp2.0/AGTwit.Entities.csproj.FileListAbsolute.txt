@@ -7,3 +7,12 @@ C:\Users\sagie.chetty\source\repos\AGTwitFeed\AGTwit.Entities\obj\Debug\netcorea
 C:\Users\sagie.chetty\source\repos\AGTwitFeed\AGTwit.Entities\obj\Debug\netcoreapp2.0\AGTwit.Entities.dll
 C:\Users\sagie.chetty\source\repos\AGTwitFeed\AGTwit.Entities\obj\Debug\netcoreapp2.0\AGTwit.Entities.pdb
 C:\Users\sagie.chetty\source\repos\AGTwitFeed\AGTwit.Entities\obj\Debug\netcoreapp2.0\AGTwit.Entities.csprojResolveAssemblyReference.cache
+C:\Users\sagie.chetty\Documents\GitHub\AG-Twitter\AGTwit.Entities\bin\Debug\netcoreapp2.0\AGTwit.Entities.deps.json
+C:\Users\sagie.chetty\Documents\GitHub\AG-Twitter\AGTwit.Entities\bin\Debug\netcoreapp2.0\AGTwit.Entities.dll
+C:\Users\sagie.chetty\Documents\GitHub\AG-Twitter\AGTwit.Entities\bin\Debug\netcoreapp2.0\AGTwit.Entities.pdb
+C:\Users\sagie.chetty\Documents\GitHub\AG-Twitter\AGTwit.Entities\obj\Debug\netcoreapp2.0\AGTwit.Entities.csprojResolveAssemblyReference.cache
+C:\Users\sagie.chetty\Documents\GitHub\AG-Twitter\AGTwit.Entities\obj\Debug\netcoreapp2.0\AGTwit.Entities.csproj.CoreCompileInputs.cache
+C:\Users\sagie.chetty\Documents\GitHub\AG-Twitter\AGTwit.Entities\obj\Debug\netcoreapp2.0\AGTwit.Entities.AssemblyInfoInputs.cache
+C:\Users\sagie.chetty\Documents\GitHub\AG-Twitter\AGTwit.Entities\obj\Debug\netcoreapp2.0\AGTwit.Entities.AssemblyInfo.cs
+C:\Users\sagie.chetty\Documents\GitHub\AG-Twitter\AGTwit.Entities\obj\Debug\netcoreapp2.0\AGTwit.Entities.dll
+C:\Users\sagie.chetty\Documents\GitHub\AG-Twitter\AGTwit.Entities\obj\Debug\netcoreapp2.0\AGTwit.Entities.pdb

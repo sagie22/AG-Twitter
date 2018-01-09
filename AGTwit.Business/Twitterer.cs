@@ -50,11 +50,13 @@ namespace AGTwit.Business
                     new[] {" follows "},
                     StringSplitOptions.None
                 ).ToList();
-                if (fileLineData.Count != 2)
-                    throw new Exception($"Invalid data in line [{line}]");
 
-                var user = Users.FirstOrDefault(c => c.Name == fileLineData[0]);
-                var follows = fileLineData[1].Split(
+                var userName = fileLineData[0];
+                fileLineData.Remove(fileLineData[0]);
+                var lineData = string.Join(" follows ", fileLineData.ToArray());
+
+                var user = Users.FirstOrDefault(c => c.Name == userName);
+                var follows = lineData.Split(
                     new[] {","},
                     StringSplitOptions.None
                 ).ToList();
@@ -69,7 +71,7 @@ namespace AGTwit.Business
                 {
                     user = new Entities.Twitterer
                     {
-                        Name = fileLineData[0],
+                        Name = userName,
                         Follows = follows,
                         Tweets = new List<Tweet>()
                     };
@@ -108,15 +110,17 @@ namespace AGTwit.Business
                 sequence++;
                 var tweetLine = line.Split(
                     new[] {">"},
-                    StringSplitOptions.RemoveEmptyEntries
+                    StringSplitOptions.None
                 ).ToList();
                 var user = Users.FirstOrDefault(c => c.Name == tweetLine[0]);
-                var tweet = tweetLine[1];
+                var userName = tweetLine[0];
+                tweetLine.Remove(tweetLine[0]);
+                var tweet = string.Join(">", tweetLine.ToArray());
 
                 if (user != null)
                     user.Tweets.Add(new Tweet
                     {
-                        Message = "\t" + $"@{tweetLine[0]}:" + tweet,
+                        Message = "\t" + $"@{userName}:" + tweet,
                         Sequence = sequence
                     });
                 else

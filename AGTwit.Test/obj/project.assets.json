@@ -5738,11 +5738,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\sagie.chetty\\source\\repos\\AGTwitFeed\\AGTwit.Test\\AGTwit.Test.csproj",
+      "projectUniqueName": "C:\\Users\\sagie.chetty\\Documents\\GitHub\\AG-Twitter\\AGTwit.Test\\AGTwit.Test.csproj",
       "projectName": "AGTwit.Test",
-      "projectPath": "C:\\Users\\sagie.chetty\\source\\repos\\AGTwitFeed\\AGTwit.Test\\AGTwit.Test.csproj",
+      "projectPath": "C:\\Users\\sagie.chetty\\Documents\\GitHub\\AG-Twitter\\AGTwit.Test\\AGTwit.Test.csproj",
       "packagesPath": "C:\\Users\\sagie.chetty\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sagie.chetty\\source\\repos\\AGTwitFeed\\AGTwit.Test\\obj\\",
+      "outputPath": "C:\\Users\\sagie.chetty\\Documents\\GitHub\\AG-Twitter\\AGTwit.Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5761,11 +5761,11 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\sagie.chetty\\source\\repos\\AGTwitFeed\\AGTwit.Entities\\AGTwit.Entities.csproj": {
-              "projectPath": "C:\\Users\\sagie.chetty\\source\\repos\\AGTwitFeed\\AGTwit.Entities\\AGTwit.Entities.csproj"
+            "C:\\Users\\sagie.chetty\\Documents\\GitHub\\AG-Twitter\\AGTwit.Entities\\AGTwit.Entities.csproj": {
+              "projectPath": "C:\\Users\\sagie.chetty\\Documents\\GitHub\\AG-Twitter\\AGTwit.Entities\\AGTwit.Entities.csproj"
             },
-            "C:\\Users\\sagie.chetty\\source\\repos\\AGTwitFeed\\AGTwit.Business\\AGTwit.Business.csproj": {
-              "projectPath": "C:\\Users\\sagie.chetty\\source\\repos\\AGTwitFeed\\AGTwit.Business\\AGTwit.Business.csproj"
+            "C:\\Users\\sagie.chetty\\Documents\\GitHub\\AG-Twitter\\AGTwit.Business\\AGTwit.Business.csproj": {
+              "projectPath": "C:\\Users\\sagie.chetty\\Documents\\GitHub\\AG-Twitter\\AGTwit.Business\\AGTwit.Business.csproj"
             }
           }
         }

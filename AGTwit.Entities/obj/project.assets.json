@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\sagie.chetty\\source\\repos\\AGTwitFeed\\AGTwit.Entities\\AGTwit.Entities.csproj",
+      "projectUniqueName": "C:\\Users\\sagie.chetty\\Documents\\GitHub\\AG-Twitter\\AGTwit.Entities\\AGTwit.Entities.csproj",
       "projectName": "AGTwit.Entities",
-      "projectPath": "C:\\Users\\sagie.chetty\\source\\repos\\AGTwitFeed\\AGTwit.Entities\\AGTwit.Entities.csproj",
+      "projectPath": "C:\\Users\\sagie.chetty\\Documents\\GitHub\\AG-Twitter\\AGTwit.Entities\\AGTwit.Entities.csproj",
       "packagesPath": "C:\\Users\\sagie.chetty\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sagie.chetty\\source\\repos\\AGTwitFeed\\AGTwit.Entities\\obj\\",
+      "outputPath": "C:\\Users\\sagie.chetty\\Documents\\GitHub\\AG-Twitter\\AGTwit.Entities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
