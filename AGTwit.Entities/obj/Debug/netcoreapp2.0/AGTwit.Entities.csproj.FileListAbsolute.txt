@@ -1,0 +1,9 @@
+C:\Users\sagie.chetty\source\repos\AGTwitFeed\AGTwit.Entities\bin\Debug\netcoreapp2.0\AGTwit.Entities.deps.json
+C:\Users\sagie.chetty\source\repos\AGTwitFeed\AGTwit.Entities\bin\Debug\netcoreapp2.0\AGTwit.Entities.dll
+C:\Users\sagie.chetty\source\repos\AGTwitFeed\AGTwit.Entities\bin\Debug\netcoreapp2.0\AGTwit.Entities.pdb
+C:\Users\sagie.chetty\source\repos\AGTwitFeed\AGTwit.Entities\obj\Debug\netcoreapp2.0\AGTwit.Entities.csproj.CoreCompileInputs.cache
+C:\Users\sagie.chetty\source\repos\AGTwitFeed\AGTwit.Entities\obj\Debug\netcoreapp2.0\AGTwit.Entities.AssemblyInfoInputs.cache
+C:\Users\sagie.chetty\source\repos\AGTwitFeed\AGTwit.Entities\obj\Debug\netcoreapp2.0\AGTwit.Entities.AssemblyInfo.cs
+C:\Users\sagie.chetty\source\repos\AGTwitFeed\AGTwit.Entities\obj\Debug\netcoreapp2.0\AGTwit.Entities.dll
+C:\Users\sagie.chetty\source\repos\AGTwitFeed\AGTwit.Entities\obj\Debug\netcoreapp2.0\AGTwit.Entities.pdb
+C:\Users\sagie.chetty\source\repos\AGTwitFeed\AGTwit.Entities\obj\Debug\netcoreapp2.0\AGTwit.Entities.csprojResolveAssemblyReference.cache

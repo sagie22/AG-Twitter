@@ -1,0 +1,15 @@
+C:\Users\sagie.chetty\source\repos\AGTwitFeed\AGTwitFeed\bin\Debug\netcoreapp2.0\AGTwitFeed.deps.json
+C:\Users\sagie.chetty\source\repos\AGTwitFeed\AGTwitFeed\bin\Debug\netcoreapp2.0\AGTwitFeed.runtimeconfig.json
+C:\Users\sagie.chetty\source\repos\AGTwitFeed\AGTwitFeed\bin\Debug\netcoreapp2.0\AGTwitFeed.runtimeconfig.dev.json
+C:\Users\sagie.chetty\source\repos\AGTwitFeed\AGTwitFeed\bin\Debug\netcoreapp2.0\AGTwitFeed.dll
+C:\Users\sagie.chetty\source\repos\AGTwitFeed\AGTwitFeed\bin\Debug\netcoreapp2.0\AGTwitFeed.pdb
+C:\Users\sagie.chetty\source\repos\AGTwitFeed\AGTwitFeed\obj\Debug\netcoreapp2.0\AGTwitFeed.csproj.CoreCompileInputs.cache
+C:\Users\sagie.chetty\source\repos\AGTwitFeed\AGTwitFeed\obj\Debug\netcoreapp2.0\AGTwitFeed.AssemblyInfoInputs.cache
+C:\Users\sagie.chetty\source\repos\AGTwitFeed\AGTwitFeed\obj\Debug\netcoreapp2.0\AGTwitFeed.AssemblyInfo.cs
+C:\Users\sagie.chetty\source\repos\AGTwitFeed\AGTwitFeed\obj\Debug\netcoreapp2.0\AGTwitFeed.dll
+C:\Users\sagie.chetty\source\repos\AGTwitFeed\AGTwitFeed\obj\Debug\netcoreapp2.0\AGTwitFeed.pdb
+C:\Users\sagie.chetty\source\repos\AGTwitFeed\AGTwitFeed\obj\Debug\netcoreapp2.0\AGTwitFeed.csprojResolveAssemblyReference.cache
+C:\Users\sagie.chetty\source\repos\AGTwitFeed\AGTwitFeed\bin\Debug\netcoreapp2.0\AGTwit.Business.dll
+C:\Users\sagie.chetty\source\repos\AGTwitFeed\AGTwitFeed\bin\Debug\netcoreapp2.0\AGTwit.Entities.dll
+C:\Users\sagie.chetty\source\repos\AGTwitFeed\AGTwitFeed\bin\Debug\netcoreapp2.0\AGTwit.Business.pdb
+C:\Users\sagie.chetty\source\repos\AGTwitFeed\AGTwitFeed\bin\Debug\netcoreapp2.0\AGTwit.Entities.pdb

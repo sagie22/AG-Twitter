@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "AGTwitFeed/1.0.0": {
+        "dependencies": {
+          "AGTwit.Business": "1.0.0",
+          "AGTwit.Entities": "1.0.0"
+        },
+        "runtime": {
+          "AGTwitFeed.dll": {}
+        }
+      },
+      "AGTwit.Business/1.0.0": {
+        "dependencies": {
+          "AGTwit.Entities": "1.0.0"
+        },
+        "runtime": {
+          "AGTwit.Business.dll": {}
+        }
+      },
+      "AGTwit.Entities/1.0.0": {
+        "runtime": {
+          "AGTwit.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AGTwitFeed/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AGTwit.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AGTwit.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

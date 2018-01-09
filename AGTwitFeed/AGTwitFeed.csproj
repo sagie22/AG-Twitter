@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <StartupObject>AGTwitFeed.Program</StartupObject>
+    <ApplicationIcon>touchicon.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AGTwit.Business\AGTwit.Business.csproj" />
+    <ProjectReference Include="..\AGTwit.Entities\AGTwit.Entities.csproj" />
+  </ItemGroup>
+
+</Project>
